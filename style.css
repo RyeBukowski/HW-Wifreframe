@@ -1,0 +1,71 @@
+.box-set {
+  position: relative;
+  width: 1296px;
+  height: 725px;
+  background: #777;
+}
+
+.box {
+}
+
+.box-1{
+	position: relative;
+	width: 960px;
+	height: 93px;
+	color: #777;
+	background: #ebebeb;
+	text-align: center;
+	left: 12.5%;
+
+}
+
+.box-2{
+	position: relative;
+	width: 960px;
+	height: 93px;
+	color: #777;
+	background: #ebebeb;
+	text-align: center;
+	left: 12.5%;
+}
+
+.box-3{
+	width: 403px;
+    float:left;
+    text-align: center;
+    height: 288px;
+    	background-color: #ebebeb;
+}
+
+.box-4{
+	width: 403px;
+	float:right;
+	text-align: center;
+	height: 288px;
+    	background-color: #ebebeb;
+    
+}
+
+.box-5{
+
+}
+
+.box-6{
+
+}
+
+.box-7{
+
+}
+
+.box-8{
+	position: absolute;
+	width: 960px;
+	height: 93px;
+	color: #777;
+	background: #ebebeb;
+	text-align: center;
+	bottom: 0;
+	left: 12.5%;
+
+}
